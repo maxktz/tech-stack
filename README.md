@@ -22,6 +22,8 @@ Toolset I use to build applications.
 
 - [ESLint](https://eslint.org/) - Linter
 
+- [Vite](https://vitejs.dev/) - Frontend build tool
+
 - [Prettier](https://prettier.io/) - Formatter
 
 - [PostgreSQL](https://www.postgresql.org/) - Database
