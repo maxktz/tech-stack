@@ -60,6 +60,8 @@ Toolset I use to build applications.
 
 - [Hetzner](https://www.hetzner.com/) - Hosting & Cloud
 
+- [Clerk](https://clerk.dev/) - Authentication and user management. 10,000 free users
+
 - [Excalidraw](https://excalidraw.com/) - Web whiteboard (UI Mocking and Diagrams)
 
 - [Figma](https://www.figma.com/) - Design tool (UI, Vector Graphics, Presentations)
