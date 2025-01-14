@@ -42,7 +42,7 @@ Toolset I use to build applications.
 
 - [Shadcn Themes](https://ui.jln.dev) - A collection of themes for Shadcn UI
 
-## Libraries
+## Libraries Used Often
 
 - [Gramjs](https://github.com/gram-js/gramjs) - Telegram client library
 
