@@ -1,6 +1,6 @@
 # My Tech Stack
 
-Toolset and libraries I use to build applications.
+Toolset I use to build applications.
 
 ## Frameworks
 
@@ -21,6 +21,12 @@ Toolset and libraries I use to build applications.
 - [Bun](https://bun.sh/) - Package manager
 
 - [ESLint](https://eslint.org/) - Linter
+
+- [Prettier](https://prettier.io/) - Formatter
+
+- [PostgreSQL](https://www.postgresql.org/) - Database
+
+- [Docker](https://www.docker.com/) - Containerization
 
 ## UI Tools
 
@@ -45,3 +51,17 @@ Toolset and libraries I use to build applications.
 - [Prisma](https://github.com/prisma/prisma) - Database ORM
 
 - [Axios](https://github.com/axios/axios) - HTTP client
+
+## Other Apps & Services
+
+- [Vercel](https://vercel.com/) - Hosting
+
+- [Hetzner](https://www.hetzner.com/) - Hosting & Cloud
+
+- [Excalidraw](https://excalidraw.com/) - Web whiteboard (UI Mocking and Diagrams)
+
+- [Figma](https://www.figma.com/) - Design tool (UI, Vector Graphics, Presentations)
+
+- [Table Plus](https://tableplus.com/) - Database GUI
+
+- [Postman](https://www.postman.com/) - API testing
