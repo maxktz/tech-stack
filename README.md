@@ -36,6 +36,8 @@ Toolset I use to build applications.
 
 - [Shadcn UI](https://ui.shadcn.com/) - Customizable components lib
 
+- [Tremor UI](https://tremor.so/) - Components lib, just like Shadcn
+
 - [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui, a lot of free resources
 
 - [ShadcnBlocks](https://shadcnblocks.com) The ultimate block set for Shadcn UI & Tailwind ([repo with free ones](https://github.com/maxktz/shadcnblocks-free))
